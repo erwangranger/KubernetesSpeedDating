@@ -27,4 +27,3 @@
 | 23 | `kubectl taint nodes node5 key=value:NoSchedule` |
 | 24 | `kubectl -n fumi02 delete pods --all` |
 | 25 | `kubectl taint nodes node5 key=value:NoSchedule-` |
-| 25 | `kubectl taint nodes node5 key=value:NoSchedule-` |
